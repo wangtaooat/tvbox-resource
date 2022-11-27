@@ -4,6 +4,7 @@
 //"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbTdyNDEyYWR2YjkyajIxc3Q2NWEudGsvbGl2ZS50eHQ="]}]}],
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ub3RhYnVnLm9yZy9jYWNpZmVyL3R2LWxpdmUvcmF3L21hc3Rlci90di50eHQ="]}]}],
+
 "sites":[
 //{"key":"js豆瓣","name":"影视1","typec":3,"api":"./dr/影魔.js","ext":"./dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key":"t4豆瓣","name":"⇨影视⇦","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 1},

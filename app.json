@@ -194,10 +194,17 @@
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"野","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"So","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
-{"name":"懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
-{"name":"扶风","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
-
+{"name":"💋So丶","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
+{"name":"神1","type":1,"url":"http://api.ckflv.cn/?url="},
+{"name":"神2","type":0,"url":"https://h5.freejson.xyz/player/?url="},
+{"name":"神3","type":0,"url":"https://freejx.rx88.top:1234/?url="},
+{"name":"懒懒1","type":1,"url":"http://123.57.56.94:9931/lanlan/?url="},
+{"name":"懒懒2","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name":"扶风","type":1,"url":"https://www.1920lgzy.top/json.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"无名","type":1,"url":"https://hc.izny.cn/json.php?url="},
+{"name":"宝盒TV","type":1,"url":"https://jx.52ruo.cc/json/?id=6&url="},
+{"name":"公益1","type":1,"url":"http://3.37.195.161:54371/parse/api/江湖.js?url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"公益2","type":1,"url":"http://3.37.195.161:54371/parse/api/无名.js?url=","header":{"User-Agent":"Mozilla/5.0"}}
 ],
 	
 "rules": [

@@ -2,10 +2,6 @@
   "drives": [
     {
       "name": "好看",
-      "server": "https://alist02.cacifer.repl.co"
-    },
-    {
-      "name": "alist",
       "server": "https://alist01.cacifer.repl.co"
     },
     {

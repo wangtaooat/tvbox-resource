@@ -1,6 +1,6 @@
 {
-  "spider": "./jar/main.jar",
-  "wallpaper": "./main/wallpaper.png",
+  "spider": "https://agit.ai/cacifer/tvbox/raw/branch/master/jar/main.jar;md5;BE998DB821D8D81314856E248A917E8E",
+  "wallpaper": "https://agit.ai/cacifer/tvbox/raw/branch/master/wallpaper.png",
   "lives": [
     {
       "group": "redirect",
@@ -8,7 +8,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=./live.txt"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2NhY2lmZXIvdHZib3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="
           ]
         }
       ]
@@ -19,8 +19,8 @@
       "key": "豆瓣",
       "name": "🎬影视",
       "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/drpy.js",
+      "api": "https://agit.ai/cacifer/tvbox/raw/branch/master/JS/drpy2.min.js",
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/JS/drpy.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
@@ -33,7 +33,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./main/戏曲.json"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/戏曲.json"
     },
     {
       "key": "相声小品",
@@ -43,7 +43,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./main/相声小品.json"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/相声小品.json"
     },
     {
       "key": "纪录片",
@@ -53,7 +53,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./main/纪录片.json"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/纪录片.json"
     },
     {
       "key": "棋牌",
@@ -63,7 +63,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./main/棋牌.json"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/棋牌.json"
     },
     {
       "key": "舞蹈",
@@ -73,7 +73,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./main/舞蹈.json"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/舞蹈.json"
     },
     {
       "key": "歌曲",
@@ -83,7 +83,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./main/歌曲.json"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/歌曲.json"
     },
     {
       "key": "食谱",
@@ -93,7 +93,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./main/食谱.json"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/食谱.json"
     },
     {
       "key": "Alist",
@@ -103,8 +103,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./main/alist.json",
-      "jar": "./jar/ali.jar"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/alist.json",
+      "jar": "https://agit.ai/cacifer/tvbox/raw/branch/master/jar/ali.jar;md5;EFB6AD1511FC45720E71386435ABE56C"
     },
     {
       "key": "py_cctv",
@@ -114,7 +114,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./main/cctv.py"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/cctv.py"
     },
     {
       "key": "幼儿乐园",
@@ -124,7 +124,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./main/幼儿乐园.json"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/幼儿乐园.json"
     },
     {
       "key": "小学课堂",
@@ -134,7 +134,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./main/小学课堂.json"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -144,7 +144,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./main/初中课堂.json"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -154,7 +154,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./main/高中课堂.json"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/高中课堂.json"
     },
     {
       "key": "搜索源1",
@@ -208,8 +208,8 @@
       "api": "csp_Paper",
       "searchable": 1,
       "filterable": 0,
-      "ext": "./main/token.txt",
-      "jar": "./jar/ali.jar"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/token.txt",
+      "jar": "https://agit.ai/cacifer/tvbox/raw/branch/master/jar/ali.jar;md5;EFB6AD1511FC45720E71386435ABE56C"
     },
     {
       "key": "易搜",
@@ -218,8 +218,8 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "filterable": 0,
-      "ext": "./main/token.txt",
-      "jar": "./jar/ali.jar"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/token.txt",
+      "jar": "https://agit.ai/cacifer/tvbox/raw/branch/master/jar/ali.jar;md5;EFB6AD1511FC45720E71386435ABE56C"
     },
     {
       "key": "盘搜",
@@ -228,8 +228,8 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "filterable": 0,
-      "ext": "./main/token.txt",
-      "jar": "./jar/ali.jar"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/token.txt",
+      "jar": "https://agit.ai/cacifer/tvbox/raw/branch/master/jar/ali.jar;md5;EFB6AD1511FC45720E71386435ABE56C"
     },
     {
       "key": "UP云搜",
@@ -238,8 +238,8 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "filterable": 0,
-      "ext": "./main/token.txt",
-      "jar": "./jar/ali.jar"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/token.txt",
+      "jar": "https://agit.ai/cacifer/tvbox/raw/branch/master/jar/ali.jar;md5;EFB6AD1511FC45720E71386435ABE56C"
     },
     {
       "key": "找资源",
@@ -248,15 +248,15 @@
       "api": "csp_Zhaozy",
       "searchable": 1,
       "filterable": 0,
-      "ext": "./main/token.txt",
-      "jar": "./jar/ali.jar"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/token.txt",
+      "jar": "https://agit.ai/cacifer/tvbox/raw/branch/master/jar/ali.jar;md5;EFB6AD1511FC45720E71386435ABE56C"
     },
     {
       "key": "小雅",
       "name": "☁云搜6",
       "type": 3,
-      "api": "./JS/alist.min.js",
-      "ext": "./main/xiaoya.json"
+      "api": "https://agit.ai/cacifer/tvbox/raw/branch/master/JS/alist.min.js",
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/xiaoya.json"
     },
     {
       "key": "push_agent",
@@ -267,8 +267,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./main/token.txt",
-      "jar": "./jar/.jar"
+      "ext": "https://agit.ai/cacifer/tvbox/raw/branch/master/main/token.txt",
+      "jar": "https://agit.ai/cacifer/tvbox/raw/branch/master/jar/ali.jar;md5;EFB6AD1511FC45720E71386435ABE56C"
     }
   ],
   "parses": [
